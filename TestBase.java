@@ -10,6 +10,7 @@ import com.thoughtworks.selenium.Wait;
 /**
  * Seleniumテスト実行の基底となる抽象クラス。
  * @author inamenai
+ * @see <a href="http://d.hatena.ne.jp/inamenai/20120609/p1">参考</a>
  */
 public abstract class TestBase extends SeleneseTestBase {
 
